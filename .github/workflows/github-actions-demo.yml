@@ -5,5 +5,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Good job!"
-      - run: npm CI
+      - run: npm ci
       - run: npm test
